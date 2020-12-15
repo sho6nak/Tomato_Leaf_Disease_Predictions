@@ -1,1 +1,1 @@
-# Tomato_Leaf_Disease_Predictions
+# Tomato-Leaf-Disease-Prediction
